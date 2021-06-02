@@ -3,7 +3,7 @@
  * @Date: 2021-05-25 15:02:16
  * @LastEditors: huananbeef
  * @LastEditTime: 2021-05-25 15:37:32
- * @Description: file content
+ * @Description: define Route Type
  */
 import type {RouteRecordRaw} from 'vue-router';
 import {RoleEnum} from '@/enums/roleEnum';
